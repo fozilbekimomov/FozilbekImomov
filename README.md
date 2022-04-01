@@ -4,7 +4,7 @@
 * 🌱 I’m currently learning Swift, Dart, NodeJS, English, Russian
 * 👀 I’m looking for help with Learn English
 * 💬 Ask me about Android development, Kotlin development everything about programming
-* 📫 How to reach me [Telegram](https://t.me/fozilbek_imomov), [Gmail](https://fozilbekimomov@gmail.com)
+* 📫 How to reach me [Telegram](https://t.me/fozilbek_imomov), [Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=fozilbekimomov@gmail.com)
 * 😊 My skils: Mobile App development (from 4 years)
 <!---
 FozilbekImomov/FozilbekImomov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
